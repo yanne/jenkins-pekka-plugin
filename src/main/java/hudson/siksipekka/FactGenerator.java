@@ -19,7 +19,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package hudson.plugins.pekkahaavisto;
+package hudson.plugins.siksipekka;
 
 import java.util.Random;
 

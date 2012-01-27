@@ -1,4 +1,4 @@
-package hudson.plugins.pekkahaavisto;
+package hudson.plugins.siksipekka;
 
 import hudson.model.Result;
 import junit.framework.TestCase;

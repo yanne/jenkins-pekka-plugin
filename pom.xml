@@ -7,19 +7,18 @@
     </parent>
 
     <groupId>org.jvnet.hudson.plugins</groupId>
-    <artifactId>pekkahaavisto</artifactId>
+    <artifactId>siksipekka</artifactId>
     <version>2</version>
-    <name>PekkaHaavisto Plugin</name>
+    <name>SiksiPekka Plugin</name>
     <description>Displays a picture of Pekka Haavisto (instead of Jenkins the butler) and a random Pekka Haavisto fact on each build page.</description>
     <url>http://siksipekka.fi/</url>
     <packaging>hpi</packaging>
 
     <developers>
         <developer>
-            <id>cliffano</id>
-            <name>Cliffano Subagio</name>
-            <email>blah@cliffano.com</email>
-            <timezone>+10</timezone>
+            <id>yanne</id>
+            <name>Janne Härkönen</name>
+            <email>janne.harkonen@iki.fi</email>
         </developer>
     </developers>
     <licenses>

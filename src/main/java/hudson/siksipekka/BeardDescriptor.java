@@ -1,4 +1,4 @@
-/**
+    /**
  * Copyright (c) 2009 Cliffano Subagio
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -19,7 +19,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package hudson.plugins.pekkahaavisto;
+package hudson.plugins.siksipekka;
 
 import hudson.Extension;
 import hudson.model.AbstractProject;
@@ -50,7 +50,7 @@ public class BeardDescriptor extends BuildStepDescriptor<Publisher> {
      */
     @Override
     public final String getDisplayName() {
-        return "Activate Chuck Norris";
+        return "Unleash Pekka Haavisto";
     }
 
     /**

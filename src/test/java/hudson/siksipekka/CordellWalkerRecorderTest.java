@@ -1,4 +1,4 @@
-package hudson.plugins.pekkahaavisto;
+package hudson.plugins.siksipekka;
 
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;

@@ -19,7 +19,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package hudson.plugins.pekkahaavisto;
+package hudson.plugins.siksipekka;
 
 import hudson.Launcher;
 import hudson.model.AbstractBuild;
@@ -34,13 +34,7 @@ import java.util.logging.Logger;
 
 import org.kohsuke.stapler.DataBoundConstructor;
 
-/**
- * This class associates a RoundhouseAction to a job or a build. For more info
- * on Cordell Walker, check out <a
- * href="http://www.imdb.com/character/ch0038386/"
- * >http://www.imdb.com/character/ch0038386/</a>.
- * @author cliffano
- */
+
 public class CordellWalkerRecorder extends Recorder {
 
     /**
@@ -71,7 +65,7 @@ public class CordellWalkerRecorder extends Recorder {
      */
     public CordellWalkerRecorder(final FactGenerator factGenerator) {
         this.factGenerator = factGenerator;
-        LOGGER.info("Chuck Norris is activated");
+        LOGGER.info("Pekkak Haavisto is activated");
     }
 
     /**

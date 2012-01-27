@@ -1,4 +1,4 @@
-package hudson.plugins.pekkahaavisto;
+package hudson.plugins.siksipekka;
 
 import junit.framework.TestCase;
 
@@ -17,6 +17,6 @@ public class RoundhouseActionTest extends TestCase {
 				.getFact());
 		assertEquals("Chuck Norris", action.getDisplayName());
 		assertNull(action.getIconFileName());
-		assertEquals("pekkahaavisto", action.getUrlName());
+		assertEquals("siksipekka", action.getUrlName());
 	}
 }

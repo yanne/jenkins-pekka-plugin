@@ -19,17 +19,10 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package hudson.plugins.pekkahaavisto;
+package hudson.plugins.siksipekka;
 
 import hudson.model.Action;
 
-/**
- * {@link RoundhouseAction} keeps the style and fact associated with the action.
- * For more info, please watch <a
- * href="http://www.youtube.com/watch?v=Vb7lnpk3tRY"
- * >http://www.youtube.com/watch?v=Vb7lnpk3tRY</a>
- * @author cliffano
- */
 public final class RoundhouseAction implements Action {
 
     /**
@@ -70,7 +63,7 @@ public final class RoundhouseAction implements Action {
      * @return the display name
      */
     public String getDisplayName() {
-        return "Chuck Norris";
+        return "Siksi Pekka";
     }
 
     /**
@@ -86,11 +79,11 @@ public final class RoundhouseAction implements Action {
      * @return the URL name
      */
     public String getUrlName() {
-        return "pekkahaavisto";
+        return "siksipekka";
     }
 
     /**
-     * Gets the Chuck Norris style.
+     * Gets the Pekka Haavisto style.
      * @return the style
      */
     public Style getStyle() {
@@ -104,7 +97,7 @@ public final class RoundhouseAction implements Action {
     }
 
     /**
-     * Gets the Chuck Norris fact.
+     * Gets the Pekka Haavisto fact.
      * @return the fact
      */
     public String getFact() {

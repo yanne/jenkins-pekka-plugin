@@ -1,4 +1,4 @@
-package hudson.plugins.pekkahaavisto;
+package hudson.plugins.siksipekka;
 
 import junit.framework.TestCase;
 
