@@ -126,8 +126,8 @@
     </reporting>
 
     <scm>
-        <connection>scm:git:git://github.com/jenkinsci/chucknorris-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:jenkinsci/chucknorris-plugin.git</developerConnection>
-        <url>https://github.com/jenkinsci/chucknorris-plugin</url>
+        <connection>scm:git:git://github.com/yane/jenkins-pekka-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:yanne/jenkins-pekka-plugin.git</developerConnection>
+        <url>https://github.com/yanne/jenkins-pekka-plugin</url>
     </scm>
 </project>

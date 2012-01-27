@@ -86,7 +86,7 @@ public final class RoundhouseAction implements Action {
      * @return the URL name
      */
     public String getUrlName() {
-        return "chucknorris";
+        return "pekkahaavisto";
     }
 
     /**

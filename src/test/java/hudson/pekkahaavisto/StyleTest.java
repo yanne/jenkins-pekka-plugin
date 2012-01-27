@@ -1,4 +1,4 @@
-package hudson.plugins.chucknorris;
+package hudson.plugins.pekkahaavisto;
 
 import hudson.model.Result;
 import junit.framework.TestCase;

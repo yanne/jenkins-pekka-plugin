@@ -29,9 +29,8 @@ import java.util.Random;
 public class FactGenerator {
 
     /**
-     * The configured Chuck Norris facts, from <a href="http://www.codesqueeze.com/the-ultimate-top-25-chuck-norris-the-programmer-jokes/"
-     * >http://www.codesqueeze.com/the-ultimate-top-25-chuck-norris-the-
-     * programmer-jokes/</a>.
+     * The configured Pekka Haapio facts, from <a href="https://twitter.com/pekkafacts"
+     * >Twitter/</a>.
      */
     private static final String[] FACTS = {
             "Suomi ei hae NATO-jäsenyyttä Pekka Haaviston presidenttikaudella. NATO hakee Suomi-jäsenyyttä.",
