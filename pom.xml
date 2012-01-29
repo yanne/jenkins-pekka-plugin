@@ -8,7 +8,7 @@
 
     <groupId>org.jvnet.hudson.plugins</groupId>
     <artifactId>siksipekka</artifactId>
-    <version>2</version>
+    <version>2-SNAPSHOT</version>
     <name>SiksiPekka Plugin</name>
     <description>Displays a picture of Pekka Haavisto (instead of Jenkins the butler) and a random Pekka Haavisto fact on each build page.</description>
     <url>http://siksipekka.fi/</url>
